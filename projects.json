@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Apex Store",
+    "desc": "Online Store, add, remove, search, filter, fully Responsive, Built with { HTML5, CSS, JavaScript }",
+    "image": "./assets/images/projects/Apex.png",
+    "category": "Web",
+    "links": {
+      "view": "https://saleh0987.github.io/Apex-Store/",
+      "code": "https://github.com/Saleh0987/Apex-Store"
+    }
+  },
+  {
+    "name": "Metro App",
+    "desc": "Knowing the latest series and movies, Built with { HTML5, Scss, React.js, Redux, API }",
+    "image": "./assets/images/projects/metroApp.png",
+    "category": "Web",
+    "links": {
+      "view": "https://metro-three.vercel.app/",
+      "code": "https://github.com/Saleh0987/Metro"
+    }
+  },
+  {
+    "name": "Memory Game",
+    "desc": "React Memory-Game, Built with { HTML5, CSS3, React.js, Vitejs }",
+    "image": "./assets/images/projects/Memory.png",
+    "category": "android",
+    "links": {
+      "view": "https://react-memory-game-beta-nine.vercel.app/",
+      "code": "https://github.com/Saleh0987/React-Memory-Game"
+    }
+  },
+  {
+    "name": "L'HABILLEUR Store",
+    "desc": "Shopping App, Built with { HTML5, CSS, React.js, Redux-toolkit, firebase v9 }",
+    "image": "./assets/images/projects/laha.png",
+    "category": "web",
+    "links": {
+      "view": "https://lhabilleur.vercel.app/",
+      "code": "https://github.com/Saleh0987/ecommerce-shop"
+    }
+  },
+  {
+    "name": "Photography Store",
+    "desc": "Photography Store, Built with { HTML5, TailwindCSS, React.js, Redux-toolkit }",
+    "image": "./assets/images/projects/photography.png",
+    "category": "web",
+    "links": {
+      "view": "https://photography-plum.vercel.app/",
+      "code": "https://github.com/Saleh0987/Photography"
+    }
+  },
+  {
+    "name": "Resume-Builder",
+    "desc": "Resume-Builder, Built with { HTML5, CSS, React.js, Bootstrap, Chakra UI }",
+    "image": "./assets/images/projects/resume.png",
+    "category": "web",
+    "links": {
+      "view": "https://resume-builder-site.vercel.app/",
+      "code": "https://github.com/Saleh0987/Resume-Builder-Site"
+    }
+  }
+
+]
