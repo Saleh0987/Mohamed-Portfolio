@@ -39,7 +39,7 @@ $(document).ready(function () {
 
     // <!-- emailjs to mail contact form data -->
     $("#contact-form").submit(function (event) {
-        emailjs.init("user_TTDmetQLYgWCLzHTDgqxm");
+        emailjs.init("service_hfe55bn");
 
         emailjs.sendForm('contact_service', 'template_contact', '#contact-form')
             .then(function (response) {
@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["frontend development", "web designing", "web development"],
+    strings: ["frontend developer", "web designing", "web development"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
@@ -110,7 +110,7 @@ function showProjects(projects) {
     projects.forEach(project => {
         projectHTML += `
     <div class="box tilt">
-    <img draggable="false" src="${project.image}" alt="project" />
+    <img draggable="false" src="${project.image}" alt="projects" />
     <div class="content">
         <div class="tag">
         <h3>${project.name}</h3>
