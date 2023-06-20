@@ -15,7 +15,7 @@
     "image": "./assets/images/projects/metroApp.png",
     "category": "Web",
     "links": {
-      "view": "https://metro-three.vercel.app/",
+      "view": "https://metro23.vercel.app/",
       "code": "https://github.com/Saleh0987/Metro"
     }
   },
@@ -35,8 +35,8 @@
     "image": "./assets/images/projects/laha.png",
     "category": "web",
     "links": {
-      "view": "https://lhabilleur.vercel.app/",
-      "code": "https://github.com/Saleh0987/ecommerce-shop"
+      "view": "https://l-habilleur-store-git-master-saleh0987.vercel.app/Home",
+      "code": "https://github.com/Saleh0987/l_habilleur_Store"
     }
   },
   {
