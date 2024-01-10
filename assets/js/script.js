@@ -68,7 +68,7 @@ document.addEventListener('visibilitychange',
 
 
 // <!-- typed js effect starts -->
-var typed = new Typed(".typing-text", {
+const typed = new Typed(".typing-text", {
     strings: ["frontend developer", "web designing", "web development"],
     loop: true,
     typeSpeed: 50,
@@ -161,7 +161,7 @@ VanillaTilt.init(document.querySelectorAll(".tilt"), {
 
 // pre loader start
 function loader() {
-    document.querySelector('.loader-container').classList.add('fade-out');
+document.querySelector('.loader-container').classList.add('fade-out');
 }
 function fadeOut() {
     setInterval(loader, 1500);
